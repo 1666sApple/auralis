@@ -1,0 +1,36 @@
+[project]
+name = "prompt-enhancer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.12"
+dependencies = [
+    "bijoy2unicode>=0.1.1",
+    "boto3>=1.42.63",
+    "freetype-py>=2.5.1",
+    "ipykernel>=7.2.0",
+    "ipython>=9.11.0",
+    "jupyter>=1.1.1",
+    "langchain>=1.2.10",
+    "langchain-aws>=1.3.1",
+    "langchain-core>=1.2.17",
+    "matplotlib>=3.10.8",
+    "notebook>=7.5.4",
+    "numpy>=2.4.2",
+    "opencv-python-headless>=4.13.0.92",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.1",
+    "pillow>=12.1.1",
+    "pycairo>=1.29.0",
+    "pydantic-settings>=2.13.1",
+    "fastapi>=0.115.0",
+    "uvicorn>=0.30.0",
+    "python-multipart>=0.0.12",
+    "uharfbuzz>=0.53.3",
+    "xlrd>=2.0.2",
+]
+
+[tool.uv.workspace]
+members = [
+    "new_codes",
+]
