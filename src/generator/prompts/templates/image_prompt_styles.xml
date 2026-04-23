@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles>
+  <reference>
+    The following are examples of strong aesthetic frameworks specifically tailored for Telecommunications campaigns in Bangladesh. Use these to inspire the `visual_style`, `color_grading`, and `camera_and_technical` components.
+
+    <style name="The Binge-Watcher">
+      <description>Used for Streaming, Entertainment &amp; Media.</description>
+      <keywords>relaxed, functional room lighting, bright natural window light, focused on content consumption (Netflix, Natoks), vibrant screen glow illuminating face brightly, relatable middle-class Bangladeshi home setting, cinematic depth of field</keywords>
+    </style>
+
+    <style name="The E-Sports Competitor">
+      <description>Used for Gaming, App Store.</description>
+      <keywords>high-intensity, holding the device horizontally, gaming triggers, dynamic RGB/neon lighting filling the room, intense concentration, vibrant high-contrast lighting with sharp colorful rim lights, energetic, competitive but brilliantly lit</keywords>
+    </style>
+
+    <style name="The Digital Socialite">
+      <description>Used for Social, IM &amp; VoIP.</description>
+      <keywords>vibrant local tea stalls (tong) or suburban street corners, group selfies, smiling, highly social, capturing authentic relaxed street life in Dhaka, dynamic off-center framing, bright natural daylight, pop color accents</keywords>
+    </style>
+
+    <style name="The Career Aspirant / Student">
+      <description>Used for E-Learning, News, Email.</description>
+      <keywords>serious, daytime university library or quiet desk, focused expression, notebooks open alongside the phone or laptop, natural window light, authentic Bangladeshi student lifestyle photography, minimal distractions</keywords>
+    </style>
+
+    <style name="The F-Commerce Shopper &amp; Seller">
+      <description>Used for E-Commerce, Banking &amp; Finance.</description>
+      <keywords>cheerful, bright, unboxing packages, modern digital transactions (bKash/Nagad context), holding a phone over a shopping bag, bright natural daylight in a relatable middle-class suburban Dhaka apartment, expressive emotion (excitement/satisfaction)</keywords>
+    </style>
+
+    <style name="The Tech-Hustler / Freelancer">
+      <description>Used for Tools &amp; Software, Cloud, Web, Company &amp; Technology.</description>
+      <keywords>simple, relatable middle-class desk setup, single laptop + phone, independent, representing local freelancers, bright monitor light contrasting with simple room lighting, focused productivity, authentic middle-class tech hustle</keywords>
+    </style>
+
+    <style name="The Active Urbanite">
+      <description>Used for Transportation, Sports, Services.</description>
+      <keywords>outdoors, motion blur background, holding the phone while waiting for a ride (Pathao/Uber context) or cheering a match, on-the-go relatable Dhaka street photography, dynamic angles, energetic authentic street traffic</keywords>
+    </style>
+
+    <style name="The Brand Fallback">
+      <description>Used for Telecommunication, Signaling, Security, Advertising and Analytics, Other.</description>
+      <keywords>Broad-Appeal Brand Image, confident, stylish Bangladeshi youth looking directly at the camera, subtle Robi-red accent in clothing or background, embodying the "Parbe Tumio" (You can do it too) ethos, premium commercial portraiture</keywords>
+    </style>
+  </reference>
+</styles>
