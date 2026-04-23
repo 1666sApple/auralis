@@ -1,0 +1,156 @@
+# =========================
+# IDE & ENVIRONMENT
+# =========================
+.vscode/
+.env
+.env.*
+!.env.example
+
+# SSH / Secrets
+ssh-key
+ssh-key.pub
+*.pem
+*.conf
+*.service
+
+# =========================
+# PYTHON & RUNTIME
+# =========================
+__pycache__/
+*.pyc
+.venv/
+*.log
+logs/
+
+# =========================
+# DATABASE & AI ARTIFACTS
+# =========================
+*.db
+*.sql
+*.index
+faiss/
+src/config/.portal_embeddings.npy
+src/config/.portal_hash.txt
+
+# =========================
+# DATA & GENERATED FILES
+# =========================
+data/
+junk/
+junks/
+uploaded_files/
+extracted_images_comprehensive/
+knowledge-base/
+knowledge-base - Copy/
+assets/
+feedbacks/
+
+# File types
+*.zip
+*.json
+*.txt
+*.resolved
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# =========================
+# GENERATED OUTPUTS
+# =========================
+generated_docs/
+generated_documents/
+output/
+finance_docs/
+chunks_export/
+
+files/generated_images/
+files/generated_image/
+files/Hallucinated_images/
+
+# =========================
+# FRONTEND
+# =========================
+frontend/public/robi-logo.png
+frontend/public/ai-agent-logo.png.png
+
+# =========================
+# PROJECT STRUCTURE
+# =========================
+scripts/
+prompt/
+notebook/
+tests/
+template/
+models/
+temp/
+final/
+old_files/
+
+src/experimental/
+test_chunks_new_update/
+
+# =========================
+# TEMP / EXPERIMENTAL FILES
+# =========================
+api_key.glm
+cleanup_unused.py
+hello.py
+check.py
+copy_image.py
+reingest_po_manual.py
+inspect_template.py
+new_error.txt
+src/prompts/t.txt
+filename.py
+
+*:Zone.Identifier
+
+# =========================
+# TEST & VERIFICATION
+# =========================
+test_*.py
+verify_*.py
+
+test_noc_ext.py
+verify_fixes.py
+test_write.py
+test_tables.py
+test_logging_fix.py
+test_logging_async.py
+test_agentic_web_search.py
+test_tavily_integration.py
+simple_test.py
+verify_context.py
+verify_hrl_expansion.py
+verify_table_placement.py
+verify_hrl_fix.py
+resizer.py
+
+# =========================
+# DOCUMENTATION
+# =========================
+*.md
+!README.md
+
+architecture.mermaid
+system-architecture.md
+
+docs/*
+!docs/diagrams/
+!docs/diagrams/*
+!docs/07_service_architecture_overview.md
+
+# =========================
+# SPECIAL CASES
+# =========================
+src/shared/config/.portal_embeddings.npy
+src/overlay/templates/sedwm7jD0
+
+# =========================
+# ROOT SCRIPTS
+# =========================
+get_reqs.py
+list.py
+run_server.py
