@@ -1,0 +1,1 @@
+- **Browsing**: Portrait/Landscape; **"Deep Information Dive"** vibe; **Intensely absorbed, delightfully curious expression**; **STRICTLY NO screen glow**.

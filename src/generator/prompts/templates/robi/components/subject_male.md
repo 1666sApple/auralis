@@ -1,0 +1,2 @@
+## 👥 Robi Millennial Subject Definitions: Male
+- **The Robi Executive ("Modern Sophistication"):** Bangladeshi male (25-45); features a **thin-faced, sharp-shaped facial structure** with **extremely fair skin tone**. **Style signature**: sophisticated **curly hair**; round-framed premium glasses are optional. Presence is confident and modern-intellectual. Fashion: **premium cuban-collar shirts**, **tailored layered shirts**, or **sophisticated over-sized knits/hoodies** in Navy/Charcoal.

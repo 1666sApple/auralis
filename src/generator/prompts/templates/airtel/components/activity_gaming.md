@@ -1,0 +1,1 @@
+- **Gaming**: **"Mixed-Media Game-Fusion"** vibe; **Intense, delightful, and joyous winner's expression**, actively engaging with the device; **STRICTLY NO screen glow**. **Accessory**: Optional earbuds or gaming headset.

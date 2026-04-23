@@ -1,0 +1,1 @@
+- **Voice Calling**: **Smartphone held actively and naturally against the ear**; **"Crystal Clear Connection"** vibe; **Highly animated, mouth openly laughing mid-conversation, vibrant expression**; **STRICTLY NO screen glow on the face**.

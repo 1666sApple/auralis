@@ -1,0 +1,1 @@
+- **Music**: Premium large over-ear headphones/earbuds required; **"Total Sensory Absorption"** vibe; **Deeply absorbed, serene and joyous expression**, moving to the rhythm.

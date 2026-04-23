@@ -131,7 +131,7 @@ resizer.py
 # =========================
 # DOCUMENTATION
 # =========================
-*.md
+# *.md
 !README.md
 
 architecture.mermaid
@@ -154,3 +154,17 @@ src/overlay/templates/sedwm7jD0
 get_reqs.py
 list.py
 run_server.py
+
+
+# =========================
+# MISC
+# =========================
+*.bak
+*.backup
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+plans_ignore/
+prompts_ignore/

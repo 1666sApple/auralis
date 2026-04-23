@@ -1,0 +1,1 @@
+- **Social Influence/Video-Call**: Portrait orientation; **"Creator Buzz"** vibe; **Vibrant, energetic, joyous laugh/expression**, actively gesturing.

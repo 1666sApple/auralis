@@ -1,0 +1,1 @@
+- **Streaming/Movies**: Landscape orientation required; **"Binge-Watch"** immersion vibe; **Highly expressive, delighted, and captivated emotion**, phone held with focused intent; **STRICTLY NO screen glow**.

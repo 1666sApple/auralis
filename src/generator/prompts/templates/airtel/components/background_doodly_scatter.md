@@ -1,0 +1,9 @@
+## Background Style: Doodly Scatter (Aesthetic Subject Halo/Burst)
+- **Type 2b: Doodly Scatter Background**: Off-white (#F8F8F8) base with hand-drawn Airtel Red line-art doodles arranged in a **distinct, airy circular burst/halo** orbiting the upper half of the subject's silhouette. The right-side dead space MUST remain 100% blank and pristine.
+- **Doodle Composition & Sizing**: The pattern must explicitly mix two elements to match the premium reference aesthetic:
+  1. **Primary Activity Icons (4-6 total)**: Minimal icons directly tied to the activity (e.g., lightbulb, compass, cursor, book). Crucially, these must be **STRICTLY MINIATURE/MICRO SIZED** (no medium/large icons) and randomly varied relative to each other.
+  2. **Tiny Dynamic Filler Marks (8-12 total)**: Embellish the spaces between main icons with tiny aesthetic accents like four-pointed sparkles, small directional swooshes, curved arrows, and subtle action lines to create energy and flow.
+- **Placement & Vibe**: The arrangement must be highly **aesthetic, elegant, and balanced**, matching a premium graphic design style. It must look purposeful, dynamic, and airy — NOT messy or cluttered. **The dead space must be left completely blank.**
+- **Contextual Derivation**: Use each primary activity icon only once. No repeats.
+- **Style & Aesthetic**: Single-color **Airtel Red line-art**. The strokes must be **clean, crisp, thin, and almost geometric hand-sketched lines** (not messy scribbles). **8–25% opacity** to keep them subtle but visible. Varied rotations (15°–90°) indicate depth and energy. Never filled/solid shapes.
+- **STRICTLY NO**: large or oversized icons, messy or dense clusters, repeating the same primary icon, doodles overlapping the subject's face, ZERO doodles in the right dead-space, 3D shapes, heavy/bold strokes.

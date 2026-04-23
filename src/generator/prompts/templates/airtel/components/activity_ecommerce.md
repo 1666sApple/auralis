@@ -1,0 +1,1 @@
+- **Ecommerce/Shopping**: Portrait orientation; **"Excited Discovery"** vibe; **Highly expressive joyous discovery**, wide-eyed surprise; **STRICTLY NO screen glow**.
