@@ -168,3 +168,6 @@ run_server.py
 Thumbs.db
 plans_ignore/
 prompts_ignore/
+frontend/*.md
+
+output.md
